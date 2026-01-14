@@ -1,4 +1,4 @@
 # Mintaskbot
 
 npm install discord.js
-.envでトークンとかは設定してください。
+\.envでトークンとかは設定してください。
