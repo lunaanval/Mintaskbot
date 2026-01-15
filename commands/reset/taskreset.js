@@ -57,7 +57,7 @@ function getTimeBucketTokyo() {
 
 module.exports = {
   data: new SlashCommandBuilder()
-    .setName("reset")
+    .setName("kibun")
     .setDescription("時間帯に合わせた気分転換の提案をします！"),
 
   async execute(interaction) {
@@ -74,3 +74,4 @@ module.exports = {
     });
   },
 };
+
